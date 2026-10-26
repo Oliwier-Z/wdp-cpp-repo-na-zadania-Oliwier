@@ -29,6 +29,7 @@ int main() {
     std::cout << "ILOCZYN a i c: " << iloczyn << '\n';
 
     // iloraz
+    std::cout << "ILORAZ c i b: " << iloraz << '\n';
 
     return 0;
 }
