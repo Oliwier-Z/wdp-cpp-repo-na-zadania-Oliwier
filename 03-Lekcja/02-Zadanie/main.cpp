@@ -30,7 +30,8 @@ int main() {
         
         std::cout << "ILORAZ: " << a / b << '\n';
         break;
+    case '%':
+        std::cout << "MODULO: " << a % b << '\n';
+        break;
     }
-
-    // modulo pózniej
 }
